@@ -1,0 +1,5 @@
+#ignore tous les fichiers dans /logs/
+logs/*
+
+#Sauf le fichier .gitkeep
+!logs/.gitkeep
